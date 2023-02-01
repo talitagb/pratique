@@ -5,6 +5,8 @@ import java.util.Scanner;
 
 import utils.ConversorDeMoeda;
 
+//Exercício sobre membros estáticos
+
 public class ProgramaConversor {
 
 	public static void main(String[] args) {

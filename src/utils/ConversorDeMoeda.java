@@ -1,5 +1,6 @@
 package utils;
 
+//Exercício sobre membros estáticos
 public class ConversorDeMoeda {
 
 	public static final double IOF = 0.06;

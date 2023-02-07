@@ -24,6 +24,7 @@ public class Program {
 		y.b = sc.nextDouble();
 		y.c = sc.nextDouble();
 		
+		
 		double areaX = x.area();
 		double areaY = y.area();
 		
